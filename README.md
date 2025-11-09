@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aditya Sharma!</h1>
 
 <p align="center">
-<img src=”https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=1000&lines=🚀 HI,+I'm+Aditya+Sharma! 🌱;⚛︎+Full+Stack+Developer;💻+Backend+Developer;🛠️ Web+/+DevOps+Specialist;☕+JavaScript+/+TypeScript+Developer;🐧+Linux+Enthusiast;🌐+Open+Source+Contributor” alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=1000&lines=%F0%9F%9A%80%20HI,+I%27m+Aditya+Sharma!%20%F0%9F%8C%B1;%E2%9A%9B%EF%B8%8E+Full+Stack+Developer;%F0%9F%92%BB+Backend+Developer;%F0%9F%9B%A0%EF%B8%8F%20Web+/+DevOps+Specialist;%E2%98%95+JavaScript+/+TypeScript+Developer;%F0%9F%90%A7+Linux+Enthusiast;%F0%9F%8C%90+Open+Source+Contributor" alt="Typing SVG" />
 </p>
 
 <h3 align="center">A passionate and driven full stack web developer from India</h3>
