@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on **NeonDocs**
 
-- 🌱 I’m currently learning **ReactJS, ExpressJS, NodeJS, MongoDB, NextJS, SQL, MySQL, PostgreSQL, Redux, Recoil, Prisma, JavaScript / TypeScript, GSAP, UI / UX, DevOps, AWS, Cloud Deployments**
+- 🌱 I’m currently learning **Advanced DevOps, AWS, Cloud Deployments, Systems Programming**
 
 - 📝 I regularly write articles on [https://expressjs-libraries.hashnode.dev/](https://expressjs-libraries.hashnode.dev/)
 
